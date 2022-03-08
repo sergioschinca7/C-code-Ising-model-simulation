@@ -6,7 +6,7 @@ There is an output "Ising_statisc_L.txt" with mean magnetization, mean magnetiza
 
 To run this code, you clone this repository and compile these into an executable:
 
-gcc -Wall -O3 -o Ising.exe Ising.c -lm
+gcc -Wall -O3 -o Ising.e Ising.c -lm
 
 Once you have the executable, it can be run from the command line:
 
